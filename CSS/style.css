@@ -13,3 +13,13 @@ h1{
 .carousel-control-prev-icon, .carousel-control-next-icon{
     filter: invert(1);
 }
+
+.img-rounded{
+    border-radius: .2em;
+}
+
+/* Modify brand and text color */
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+	color: green;
+}
