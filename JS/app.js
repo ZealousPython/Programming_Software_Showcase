@@ -29,6 +29,7 @@ function add_navbar(nav){
             </div>
         </div>
     </nav>
+    <br><br><br>
     `
 }
 function add_footer(foot){
