@@ -6,8 +6,19 @@ Colors:
 #FFFFFF (white)
 */
 
-h1{
-    color: #139bcd;
+.title{
+    background-color: #85c14a;
+    color: white;
+    padding: 1em;
+}
+
+.trash{
+    text-decoration: none;
+    font-size: x-large;
+    font-weight: 600;
+    color: black;
+    padding: 1em;
+    text-align: center;
 }
 
 .carousel-control-prev-icon, .carousel-control-next-icon{
@@ -46,3 +57,94 @@ h1{
     transition: ease-in-out .5s;
     color: #85c14a;
 }
+
+.button{
+    color: white;
+    background-color: #85c14a;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: larger;
+    border-radius: .2em;
+    padding: 1rem;
+    padding-right: 2rem;
+    padding-left: 2rem;
+}
+
+.button:hover{
+    transition: ease .5s;
+    color: lightcyan;
+    background-color: #0e2d52;
+}
+
+#footer{
+    border: 1em;
+    color:#85c14a;
+    background-color: #0e2d52;
+    text-decoration: none;
+    font-weight: 700;
+    padding: 1em;
+    padding-top: 3em;
+    margin-top: 25vh;
+}
+
+h2{
+    color:#85c14a;
+}
+
+.social_icon{
+    color: white;
+    text-decoration: none;
+    margin: 16px;
+    width: 160px;
+    font-size: 2em;
+}
+
+.social_icon:hover{
+    color: #85c14a;
+    transition: ease 1s;
+}
+
+.footer-color{
+    color: white;
+    font-weight: 700;
+    font-size: large;
+    text-decoration: none;
+    padding: .5em;
+}
+
+.footer-color:hover{
+    transition: ease-in-out .5s;
+    color: #85c14a;
+}
+
+a{
+    text-decoration: none;
+}
+
+.list-style a{
+    color: white;
+    font-size: large;
+    font-weight: 500;
+}
+
+.list-style a:hover{
+    transition: ease .3s;
+    color: #139bcd;
+}
+
+.card{
+    background-color: #139bcd;
+    color: white;
+    margin-right: 3em;
+    margin-left: 3em;
+}
+.card-img-top{
+    border-radius: .2em;
+    margin-right: 1em;
+    margin-top: 1em;
+}
+
+.navbar-toggler-icon{
+    filter: invert(1);
+}
+
