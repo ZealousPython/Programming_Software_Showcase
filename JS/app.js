@@ -38,9 +38,9 @@ function add_footer(foot){
             <div class="footer_links">
                 <div class="row">
                     <div class="col-lg-4 text-center">
-                        <ul style="list-style:none;">
-                            <li><h2>About Us</h2></li>
-                            <li><a href="#">How it works</a></li>
+                        <ul class="list-style" style="list-style:none;">
+                            <li><h2>EFCTS Sites</h2></li>
+                            <li><a href="https://www.eastland-fairfield.com/">Main Site</a></li>
                             <li><a href="#">Testimonials</a></li>
                             <li><a href="#">Careers</a></li>
                             <li><a href="#">Investments</a></li>
@@ -48,7 +48,7 @@ function add_footer(foot){
                         </ul>
                     </div>
                     <div class="col-lg-4 text-center">
-                        <ul style="list-style:none;">
+                        <ul class="list-style" style="list-style:none;">
                             <li><h2>Contact Us</h2></li>
                             <li><a href="#">Contact</a></li>
                             <li><a href="#">Support</a></li>
@@ -57,31 +57,31 @@ function add_footer(foot){
                         </ul>
                     </div>
                     <div class="col-lg-4 text-center">
-                        <ul style="list-style:none;">
+                        <ul class="list-style" style="list-style:none;">
                             <li><h2>Social Media</h2></li>
-                            <li><a href="instagram.com/efctspix">Instagram</a></li>
-                            <li><a href="facebook.com/efcts">Facebook</a></li>
+                            <li><a href="https://www.instagram.com/efctspix">Instagram</a></li>
+                            <li><a href="https://www.facebook.com/efcts">Facebook</a></li>
                             <li><a href="https://www.youtube.com/c/EFCTS">Youtube</a></li>
-                            <li><a href="twitter.com/EFCTS">Twitter</a></li>
+                            <li><a href="https://www.twitter.com/EFCTS">Twitter</a></li>
                         </ul>
                     </div>
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-6 text-center">
-                    <a href="../HTML/landing.html"><img src="../Media/Logo 3.png" width="80px" class="logo"></a>
+                <div class="col-lg-6">
+                    <a class="footer-color" href="../HTML/landing.html"><img src="../Media/Logo 3.png" width="50px" class="logo logo-bg">EFCTS-PS</a>
                 </div>
-                <div class="col-lg-6 text-center">
+                <div class="col-lg-6 text-end">
                     <a 
                         class="social_icon"
-                        href="facebook.com/efcts"
+                        href="https://www.facebook.com/efcts"
                         target="_blank"
                         aria-label="Facebook">
                         <i class="fa-brands fa-facebook"></i>
                     </a>
                     <a
                     class="social_icon"
-                        href="instagram.com/efctspix"
+                        href="https://www.instagram.com/efctspix"
                         target="_blank"
                         aria-label="Instagram">
                         <i class="fa-brands fa-instagram"></i>
@@ -102,7 +102,7 @@ function add_footer(foot){
                     </a>
                     <a
                     class="social_icon"
-                        href="linkedin.com/school/efcts"
+                        href="https://www.linkedin.com/school/efcts"
                         target="_blank"
                         aria-label="LinkedIn">
                         <i class="fa-brands fa-linkedin"></i>
