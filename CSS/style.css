@@ -9,3 +9,40 @@ Colors:
 h1{
     color: #139bcd;
 }
+
+.carousel-control-prev-icon, .carousel-control-next-icon{
+    filter: invert(1);
+}
+
+.img-rounded{
+    border-radius: .2em;
+}
+
+/* Modify brand and text color */
+.custom_nav{
+    background-color: #0e2d52;
+}
+
+.logo-bg{
+    background-color: white;
+    border-radius: 100%;
+    margin-right: 1em;
+}
+
+.logo-bg:hover{
+    transition: ease-in-out .5s;
+    background-color: lightcyan;
+}
+
+.nav-color{
+    color: white;
+    font-weight: 700;
+    font-size: large;
+    text-decoration: none;
+    padding: .5em;
+}
+
+.nav-color:hover{
+    transition: ease-in-out .5s;
+    color: #85c14a;
+}

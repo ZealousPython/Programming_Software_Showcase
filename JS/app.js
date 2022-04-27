@@ -3,9 +3,9 @@ const footer = document.getElementById('footer')
 
 function add_navbar(nav){
     nav.innerHTML = /*html*/`<br><br><br>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top custom_nav" >
         <div class="container-fluid">
-            <a class="navbar-brand" href="../HTML/landing.html"><img src="../Media/Logo 3.png" height="75px">EFCTS-PS</a>
+            <a class=" nav-color" href="../HTML/landing.html"><img src="../Media/Logo 3.png" height="75px" class="logo-bg">EFCTS-PS</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -14,21 +14,22 @@ function add_navbar(nav){
             <!--text-center on the <ul> tag makes the links centered when the button is toggled-->
                 <ul class="navbar-nav text-center">
                     <li class="nav-item">
-                        <a class="nav-link" aria-current="page" href="../HTML/landing.html">Home</a>
+                        <a class="nav-color" aria-current="page" href="../HTML/landing.html">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="../HTML/projects.html">Projects</a>
+                        <a class="nav-color" href="../HTML/projects.html">Projects</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="../HTML/class_layout.html">Our Classroom</a>
+                        <a class="nav-color" href="../HTML/class_layout.html">Our Classroom</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="../HTML/course_offerings.html">What We Learn</a>
+                        <a class="nav-color" href="../HTML/course_offerings.html">What We Learn</a>
                     </li>
                 </ul>
             </div>
         </div>
     </nav>
+    <br><br><br>
     `
 }
 function add_footer(foot){
