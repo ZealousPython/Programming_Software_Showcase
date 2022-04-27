@@ -6,7 +6,7 @@ Colors:
 #FFFFFF (white)
 */
 
-h1{
+.title{
     background-color: #85c14a;
     color: white;
     padding: 1em;

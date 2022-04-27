@@ -38,7 +38,7 @@ function add_footer(foot){
                 <div class="row">
                     <div class="col-lg-4 text-center">
                         <ul class="list-style" style="list-style:none;">
-                            <li><h2>EFCTS Sites</h2></li>
+                            <li><h2 class="sub-title">EFCTS Sites</h2 class="sub-title"></li>
                             <li><a href="https://www.eastland-fairfield.com/">Main Site</a></li>
                             <li><a href="#">Testimonials</a></li>
                             <li><a href="#">Careers</a></li>
@@ -48,7 +48,7 @@ function add_footer(foot){
                     </div>
                     <div class="col-lg-4 text-center">
                         <ul class="list-style" style="list-style:none;">
-                            <li><h2>Contact Us</h2></li>
+                            <li><h2 class="sub-title">Contact Us</h2 class="sub-title"></li>
                             <li><a href="#">Contact</a></li>
                             <li><a href="#">Support</a></li>
                             <li><a href="#">Destination</a></li>
@@ -57,7 +57,7 @@ function add_footer(foot){
                     </div>
                     <div class="col-lg-4 text-center">
                         <ul class="list-style" style="list-style:none;">
-                            <li><h2>Social Media</h2></li>
+                            <li><h2 class="sub-title">Social Media</h2 class="sub-title"></li>
                             <li><a href="https://www.instagram.com/efctspix">Instagram</a></li>
                             <li><a href="https://www.facebook.com/efcts">Facebook</a></li>
                             <li><a href="https://www.youtube.com/c/EFCTS">Youtube</a></li>
