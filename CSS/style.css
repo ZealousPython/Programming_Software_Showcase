@@ -58,7 +58,7 @@ Colors:
     color: #85c14a;
 }
 
-.button{
+.card-button{
     color: white;
     background-color: #85c14a;
     text-decoration: none;
@@ -68,9 +68,12 @@ Colors:
     padding: 1rem;
     padding-right: 2rem;
     padding-left: 2rem;
+    position:absolute;
+    top:85%;
+    left:33%;
 }
 
-.button:hover{
+.card-button:hover{
     transition: ease .5s;
     color: lightcyan;
     background-color: #0e2d52;
@@ -133,16 +136,24 @@ a{
 }
 
 .card{
-    margin-right: 1rem;
-    margin-left:1rem;
+    
     background-color: #139bcd;
     color: white;
-    margin-top:1rem;
+    height:100%;
+    margin:1rem;
 }
-.acard-img-top{
-    border-radius: .2em;
-    margin-right: 1em;
+.card-img-top{
+    
+    padding-right: 1em;
+    padding-left:1rem;
     margin-top: 1em;
+    border-radius: 1em;
+}
+.card-text{
+    margin-bottom:5em;
+}
+.card-body{
+    margin-bottom:1em;
 }
 
 .navbar-toggler-icon{
