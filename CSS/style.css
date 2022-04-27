@@ -87,7 +87,7 @@ Colors:
     margin-top: 25vh;
 }
 
-h2{
+.sub-text{
     color:#85c14a;
 }
 
@@ -148,3 +148,21 @@ a{
     filter: invert(1);
 }
 
+.blue-bg{
+    background-color: #139bcd;
+    margin-top: 10vh;
+    padding: 2em;
+    border-radius: .5em;
+}
+
+.green-bg{
+    background-color: #85c14a;
+    margin-top: 10vh;
+    padding: 2em;
+    border-radius: .5em;
+}
+
+.project-text{
+    color: white;
+    font-weight: 600;
+}
