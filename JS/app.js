@@ -23,7 +23,7 @@ function add_navbar(nav){
                         <a class="nav-color" href="../HTML/class_layout.html">Our Classroom</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-color" href="../HTML/course_offerings.html">What We Learn</a>
+                        <a class="nav-color" href="../HTML/course_offerings.html">What You Learn</a>
                     </li>
                 </ul>
             </div>
@@ -43,7 +43,6 @@ function add_footer(foot){
                             <li><a href="#">Testimonials</a></li>
                             <li><a href="#">Careers</a></li>
                             <li><a href="#">Investments</a></li>
-                            <li><a href="#">Terms of Service</a></li>
                         </ul>
                     </div>
                     <div class="col-lg-4 text-center">
