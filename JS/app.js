@@ -39,28 +39,28 @@ function add_footer(foot){
                     <div class="col-lg-4 text-center">
                         <ul class="list-style" style="list-style:none;">
                             <li><h2 class="sub-title">EFCTS Sites</h2 class="sub-title"></li>
-                            <li><a href="https://www.eastland-fairfield.com/">Main Site</a></li>
-                            <li><a href="#">Testimonials</a></li>
-                            <li><a href="#">Careers</a></li>
-                            <li><a href="#">Investments</a></li>
+                            <li><a href="https://www.eastland-fairfield.com/" target="_blank">Main Site</a></li>
+                            <li><a href="https://www.eastlandfairfield.com/Newsletters.aspx" target="_blank">Newsletter</a></li>
+                            <li><a href="https://www.eastlandfairfield.com/ProgramsCourses.aspx" target="_blank">Careers</a></li>
+                            <li><a href="https://www.eastlandfairfield.com/BusinessPartnerships.aspx" target="_blank">Business Partners</a></li>
                         </ul>
                     </div>
                     <div class="col-lg-4 text-center">
                         <ul class="list-style" style="list-style:none;">
                             <li><h2 class="sub-title">Contact Us</h2 class="sub-title"></li>
-                            <li><a href="#">Contact</a></li>
-                            <li><a href="#">Support</a></li>
-                            <li><a href="#">Destination</a></li>
-                            <li><a href="#">Sponsorships</a></li>
+                            <li><a href="https://www.eastland-fairfield.com/ContactUs.aspx" target="_blank">Contact </a></li>
+                            <li><a href="https://www.eastlandfairfield.com/FAQs1.aspx" target="_blank">Support</a></li>
+                            <li><a href="https://www.eastlandfairfield.com/Tours.aspx" target="_blank">Tours</a></li>
+                            <li><a href="https://www.eastlandfairfield.com/Admissions.aspx" target="_blank">Admissions</a></li>
                         </ul>
                     </div>
                     <div class="col-lg-4 text-center">
                         <ul class="list-style" style="list-style:none;">
                             <li><h2 class="sub-title">Social Media</h2 class="sub-title"></li>
-                            <li><a href="https://www.instagram.com/efctspix">Instagram</a></li>
-                            <li><a href="https://www.facebook.com/efcts">Facebook</a></li>
-                            <li><a href="https://www.youtube.com/c/EFCTS">Youtube</a></li>
-                            <li><a href="https://www.twitter.com/EFCTS">Twitter</a></li>
+                            <li><a href="https://www.instagram.com/efctspix" target="_blank">Instagram</a></li>
+                            <li><a href="https://www.facebook.com/efcts" target="_blank">Facebook</a></li>
+                            <li><a href="https://www.youtube.com/c/EFCTS" target="_blank">Youtube</a></li>
+                            <li><a href="https://www.twitter.com/EFCTS" target="_blank">Twitter</a></li>
                         </ul>
                     </div>
                 </div>
