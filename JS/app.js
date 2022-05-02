@@ -66,10 +66,10 @@ function add_footer(foot){
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-6">
+                <div class="col-lg-6 col-xs-12">
                     <a class="footer-color" href="../HTML/landing.html"><img src="../Media/Logo 3.png" width="50px" class="logo logo-bg">EFCTS-PS</a>
                 </div>
-                <div class="col-lg-6 text-end">
+                <div class="col-lg-6 col-xs-12 text-end">
                     <a 
                         class="social_icon"
                         href="https://www.facebook.com/efcts"
